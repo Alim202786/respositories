@@ -1,0 +1,22 @@
+# First code
+thislist = ["apple", "banana", "cherry"]
+thislist.pop(1)
+print(thislist)
+
+
+# Second code
+thislist = ["apple", "banana", "cherry"]
+thislist.pop()
+print(thislist)
+
+
+# Third code
+thislist = ["apple", "banana", "cherry"]
+del thislist[0]
+print(thislist)
+
+
+# Fourth code
+thislist = ["apple", "banana", "cherry"]
+del thislist
+print(thislist) #this will cause an error because you have succsesfully deleted "thislist".
