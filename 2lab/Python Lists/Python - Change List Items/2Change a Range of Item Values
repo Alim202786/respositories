@@ -12,3 +12,11 @@ thislist = ["apple", "banana", "cherry"]
 thislist[1:2] = ["blackcurrant", "watermelon"]
 
 print(thislist)
+
+
+# Third code
+thislist = ["apple", "banana", "cherry"]
+
+thislist[1:3] = ["watermelon"]
+
+print(thislist)
