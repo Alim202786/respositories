@@ -12,7 +12,8 @@ if b > a:
 else:
   print("b is not greater than a")
 
+
+
 # Evaluate Values and Variables
-# First block of code
 print(bool("Hello"))
 print(bool(15))
