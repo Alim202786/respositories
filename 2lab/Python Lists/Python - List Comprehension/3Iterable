@@ -1,0 +1,10 @@
+# First code
+newlist = [x for x in range(10)]
+
+print(newlist)
+
+
+#Second code
+newlist = [x for x in range(10) if x < 5]
+
+print(newlist)
